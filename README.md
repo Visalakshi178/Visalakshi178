@@ -4,11 +4,6 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" alt="Waving hand" />
 
-<br />
-<br />
-
-<img src="https://github.com/Visalakshi178.png" width="180" height="180" alt="Visalakshi Polepalli profile picture" />
-
 # Hi, I'm Visalakshi Polepalli
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=760&lines=Data+Analyst;Turning+data+into+actionable+insights;Python+%7C+SQL+%7C+Cloud;Learning%2C+analyzing%2C+and+growing+every+day)](https://git.io/typing-svg)
