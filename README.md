@@ -50,6 +50,12 @@ I am a data analyst with 6 months of hands-on experience working with data, find
 <img height="180em" src="https://streak-stats.demolab.com/?user=Visalakshi178&theme=tokyonight&hide_border=true" alt="Visalakshi Polepalli's GitHub streak stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visalakshi178&layout=compact&theme=tokyonight&hide_border=true" alt="Visalakshi Polepalli's top languages card" />
 
+### Languages I Work With
+
+![Python](https://img.shields.io/badge/Python-70A5FD?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-38BDF8?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 </div>
 
 ---
