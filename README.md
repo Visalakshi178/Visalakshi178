@@ -1,12 +1,12 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Visalakshi178&label=Profile%20Views&color=8A2BE2&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Visalakshi178&label=Profile%20Views&color=70A5FD&style=for-the-badge)
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" alt="Waving hand" />
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48" alt="Waving hand" />
 
 # Hi, I'm Visalakshi Polepalli
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=760&lines=Data+Analyst;Turning+data+into+actionable+insights;Python+%7C+SQL+%7C+Cloud;Learning%2C+analyzing%2C+and+growing+every+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=760&lines=Data+Analyst;6+Months+of+Data+Analytics+Experience;Python+%7C+SQL+%7C+Cloud;Turning+data+into+actionable+insights)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,12 +14,12 @@
 
 ## About Me
 
-I am a data analyst with 6 months of hands-on experience working with data, finding patterns, and turning information into clear business insights. I enjoy using Python, SQL, and cloud technologies to solve problems and communicate data stories with confidence.
+I am a data analyst with 6 months of hands-on experience working with data, finding patterns, and turning raw information into clear, useful insights. I enjoy using Python, SQL, and cloud technologies to solve problems, simplify decisions, and tell meaningful stories with data.
 
-- 📊 I enjoy cleaning, exploring, and analyzing data.
-- 🧠 I like solving problems with logic, curiosity, and detail.
-- ☁️ I am learning cloud-based data tools and workflows.
-- 🚀 I am focused on growing into a strong, impact-driven data professional.
+- 📊 I enjoy cleaning, exploring, and analyzing data to uncover trends.
+- 🧠 I like solving business problems with logic, curiosity, and attention to detail.
+- ☁️ I am building my skills in cloud-based data tools and workflows.
+- 🚀 I am focused on growing as a confident, impact-driven data professional.
 
 ---
 
@@ -27,8 +27,8 @@ I am a data analyst with 6 months of hands-on experience working with data, find
 
 ### Frontend
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Dashboards](https://img.shields.io/badge/Dashboards-FF6F00?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-7C3AED?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### Backend
 
@@ -46,21 +46,9 @@ I am a data analyst with 6 months of hands-on experience working with data, find
 
 <div align="center">
 
-<h3>GitHub Stats Card</h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Visalakshi178&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Visalakshi Polepalli's GitHub stats" />
-
-<h3>GitHub Streak Stats</h3>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Visalakshi178&theme=tokyonight&hide_border=true" alt="Visalakshi Polepalli's GitHub streak stats" />
-
-<h3>Top Languages Card</h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visalakshi178&layout=compact&theme=tokyonight&hide_border=true" alt="Visalakshi Polepalli's top languages" />
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/Python-70A5FD?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-38BDF8?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Visalakshi178&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Visalakshi Polepalli's GitHub stats card" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=Visalakshi178&theme=tokyonight&hide_border=true" alt="Visalakshi Polepalli's GitHub streak stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visalakshi178&layout=compact&theme=tokyonight&hide_border=true" alt="Visalakshi Polepalli's top languages card" />
 
 </div>
 
