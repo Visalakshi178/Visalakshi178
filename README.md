@@ -4,6 +4,11 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" alt="Waving hand" />
 
+<br />
+<br />
+
+<img src="https://github.com/Visalakshi178.png" width="180" height="180" alt="Visalakshi Polepalli profile picture" />
+
 # Hi, I'm Visalakshi Polepalli
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=760&lines=Data+Analyst;Turning+data+into+actionable+insights;Python+%7C+SQL+%7C+Cloud;Learning%2C+analyzing%2C+and+growing+every+day)](https://git.io/typing-svg)
@@ -49,6 +54,12 @@ I am a data analyst with 6 months of hands-on experience working with data, find
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Visalakshi178&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Visalakshi Polepalli's GitHub stats" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Visalakshi178&theme=tokyonight&hide_border=true" alt="Visalakshi Polepalli's GitHub streak stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visalakshi178&layout=compact&theme=tokyonight&hide_border=true" alt="Visalakshi Polepalli's top languages" />
+
+### Most Used Languages
+
+![Python](https://img.shields.io/badge/Python-70A5FD?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-38BDF8?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 </div>
 
