@@ -45,29 +45,44 @@ I am a data analyst with 6 months of hands-on experience working with data, find
 ## GitHub Stats
 
 <div align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Visalakshi178&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Visalakshi Polepalli's GitHub stats card" />
 <img height="180em" src="https://streak-stats.demolab.com/?user=Visalakshi178&theme=tokyonight&hide_border=true" alt="Visalakshi Polepalli's GitHub streak stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visalakshi178&layout=compact&theme=tokyonight&hide_border=true" alt="Visalakshi Polepalli's top languages card" />
-
-### Languages I Work With
-
-![Python](https://img.shields.io/badge/Python-70A5FD?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-38BDF8?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
 </div>
 
 ---
 
-## GitHub Trophies
+## Most Used Languages
+
+<div align="center">
+<table width="100%">
+<tr>
+<td align="center" width="33%" height="120">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="80" height="80" alt="Python" /><br/>
+<sub><b>Python</b></sub>
+</td>
+<td align="center" width="33%" height="120">
+<img src="https://skillicons.dev/icons?i=r&theme=dark" width="80" height="80" alt="R" /><br/>
+<sub><b>R</b></sub>
+</td>
+<td align="center" width="33%" height="120">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="80" height="80" alt="SQL" /><br/>
+<sub><b>SQL</b></sub>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## Contribution Activity
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Visalakshi178&theme=onedark&no-frame=true&no-bg=true&margin-w=12&margin-h=12)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Visalakshi178&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
+---
 ---
 
 ## Let's Connect
