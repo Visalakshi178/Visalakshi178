@@ -46,15 +46,21 @@ I am a data analyst with 6 months of hands-on experience working with data, find
 
 <div align="center">
 
+<h3>GitHub Stats Card</h3>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Visalakshi178&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Visalakshi Polepalli's GitHub stats" />
+
+<h3>GitHub Streak Stats</h3>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Visalakshi178&theme=tokyonight&hide_border=true" alt="Visalakshi Polepalli's GitHub streak stats" />
+
+<h3>Top Languages Card</h3>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visalakshi178&layout=compact&theme=tokyonight&hide_border=true" alt="Visalakshi Polepalli's top languages" />
 
-### Most Used Languages
+<br />
+<br />
 
-![Python](https://img.shields.io/badge/Python-70A5FD?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-38BDF8?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<img src="https://img.shields.io/badge/Python-70A5FD?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-38BDF8?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 
 </div>
 
